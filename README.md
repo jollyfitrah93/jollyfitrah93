@@ -5,7 +5,7 @@
 I am an experienced Customer Service Team Leader with a passion for providing exceptional customer experiences. My goal is to leverage my skills and knowledge in customer service towards a career as a Data Analyst. I am enthusiastic about learning and staying up-to-date with the latest technologies in the tech industry.
 
 ## 💼 Professional Background
-
+- **Customer Service:** PT. Infomedia Solusi Humanika(outsourcing partner of Telkomsel) (1 Year)
 - **Customer Service Team Leader:** PT. Infomedia Nusantara(outsourcing partner of Telkomsel) (5,5 Years)
 - **Aspiring Data Analyst:** Currently working towards transitioning into a role in data analysis.
 
